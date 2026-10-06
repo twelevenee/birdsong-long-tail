@@ -1,0 +1,46 @@
+{
+  "seed": 0,
+  "min_rec": 8,
+  "min_author": 3,
+  "bird_species": 146,
+  "bird_recordings": 27648,
+  "included_species": 145,
+  "included_recordings": 27642,
+  "animalspeak_species_matched": 145,
+  "leak_counts": {
+    "seen": 16463,
+    "unknown": 5811,
+    "unseen": 5368
+  },
+  "rating_by_collection": {
+    "XC": {
+      "0.0": 588,
+      "0.5": 26,
+      "1.0": 224,
+      "1.5": 70,
+      "2.0": 741,
+      "2.5": 360,
+      "3.0": 2838,
+      "3.5": 894,
+      "4.0": 7510,
+      "4.5": 1257,
+      "5.0": 6532
+    },
+    "iNat": {
+      "0.0": 6608,
+      "0.5": 0,
+      "1.0": 0,
+      "1.5": 0,
+      "2.0": 0,
+      "2.5": 0,
+      "3.0": 0,
+      "3.5": 0,
+      "4.0": 0,
+      "4.5": 0,
+      "5.0": 0
+    }
+  },
+  "share_with_secondary": 0.096,
+  "species_with_5plus_unseen": 128,
+  "spearman_nrec_vs_animalspeak": 0.974
+}

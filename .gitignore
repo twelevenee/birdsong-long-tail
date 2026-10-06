@@ -1,0 +1,6 @@
+data/external/
+data/birdclef-2025/
+cache/
+*.zip
+.ipynb_checkpoints/
+.DS_Store
