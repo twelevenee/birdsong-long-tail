@@ -4,3 +4,5 @@ cache/
 *.zip
 .ipynb_checkpoints/
 .DS_Store
+__pycache__/
+application/
