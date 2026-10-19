@@ -83,9 +83,10 @@ Run 01–04 with *Save Version → Save & Run All* so that outputs persist.
 
 ## Data and licences
 
-- **BirdCLEF+ 2025** audio and metadata are subject to the competition rules and are not redistributed here. The recordings carry their original Creative Commons licences.
-- **AnimalSpeak** (CC BY-NC-SA 4.0): only per-species counts and archive IDs derived from it are included.
-- **Code**: see `LICENSE` (to be added).
+- **BirdCLEF+ 2025** data is licensed CC BY-NC-SA 4.0 (competition rules, section 7). Audio is not redistributed here. Derived metadata in `outputs/eda/` (fold assignments, per-species counts, leakage matching) and the per-species results in `outputs/analysis/` are adapted from it and are released under **CC BY-NC-SA 4.0**. Credit: BirdCLEF+ 2025 organisers (LifeCLEF / Kaggle) and the original recordists on Xeno-canto and iNaturalist.
+- **AnimalSpeak** (Robinson et al., 2023; CC BY-NC-SA 4.0): the per-species caption counts and archive IDs in `data/animalspeak_*` are derived from `AnimalSpeak_limited.csv` and are released under **CC BY-NC-SA 4.0**.
+- **Code** (`src/`, `notebooks/`): see `LICENSE` (to be added).
+- Non-commercial use only for all data files above.
 
 ## References
 
